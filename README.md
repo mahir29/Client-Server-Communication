@@ -1,5 +1,5 @@
-# Socket-Programming
-Client Server Communication System using Socket Programming in C++
+# Client Server Communication
+Client Server Communication System using TCP and UDP protocols
 
 Socket programming is a way of connecting two nodes on a network to communicate with each other. 
 One socket(node) listens on a particular port at an IP, while other socket reaches out to the other to form a connection.
@@ -14,7 +14,7 @@ It provides reliable byte stream transmission of data with error checking and co
 ### Guide to run the code
 
 ```
-git clone https://github.com/saurabhhere/VidVan.git<br/>
+git clone https://github.com/mahir29/Client-Server-Communication.git<br/>
 cd Socket-Programming
 ```
 
