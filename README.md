@@ -3,8 +3,7 @@ Client Server Communication System using TCP and UDP protocols
 
 Socket programming is a way of connecting two nodes on a network to communicate with each other. 
 One socket(node) listens on a particular port at an IP, while other socket reaches out to the other to form a connection.
-Server forms the listener socket while client reaches out to the server.
-We believe that our product VIDVAN can meet the market’s requirements in the best possible way without taking a single penny from the consumers.<br/>
+Server forms the listener socket while client reaches out to the server.<br/>
 
 1.Transmission Control Protocol (TCP): Establishes a two-way connection between a server and a single client.
 It provides reliable byte stream transmission of data with error checking and correction, and message acknowledgement.<br/>
